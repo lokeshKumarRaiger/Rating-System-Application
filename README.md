@@ -47,10 +47,7 @@ A simple full-stack web application for rating and reviewing products, built wit
 
 ### Backend (Spring Boot)
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/rating-system.git
-   cd rating-system/backend
+
 Configure your application.properties:
 spring.datasource.url=jdbc:mysql://localhost:3306/ratingsystem
 spring.datasource.username=root
