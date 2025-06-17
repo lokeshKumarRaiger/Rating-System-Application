@@ -43,11 +43,7 @@ A simple full-stack web application for rating and reviewing products, built wit
   
 ---
 
-## ⚙️ How to Run the Project
-
-### Backend (Spring Boot)
-
-
+## ⚙️ Configure your application.properties:
 Configure your application.properties:
 spring.datasource.url=jdbc:mysql://localhost:3306/ratingsystem
 spring.datasource.username=root
@@ -60,6 +56,9 @@ spring.jpa.hibernate.ddl-auto=update
 🙋‍♂️ Author
 Lokesh Kumar Raiger
 Email: lokeshv2233@gmail.com
+
+
+##UI
 ![Rating system](https://github.com/user-attachments/assets/a3c6bebc-80e9-409e-9fc9-0636ddefd736)
 
 
